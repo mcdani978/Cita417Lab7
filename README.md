@@ -9,12 +9,12 @@ You can see the difference in the YouTube video I made.
 I also uploaded the whole project to GitHub so everything is there.
 
 # How To Reproduce
-1- Open the project in Unreal Engine 5.
-2 - Open the FirstPersonMap (the main level).
-3 - Press Play.
-4 - Press Left Mouse Button to shoot bullets.
-5 - In the “before” version, bullets disappear after 3 seconds.
-6 - In the “after” version, bullets stay in the world forever.
+ - Open the project in Unreal Engine 5.
+ - Open the FirstPersonMap (the main level).
+ - Press Play.
+ - Press Left Mouse Button to shoot bullets.
+ - In the “before” version, bullets disappear after 3 seconds.
+ - In the “after” version, bullets stay in the world forever.
 
 # What I changed 
 I found the BP_FirstPersonProjectile blueprint.I changed the Initial Life Span from 3 to 0 so it stays forever.This makes it easier to see how many actors stay in the world at once. I recorded a before-and-after comparison for my video.
