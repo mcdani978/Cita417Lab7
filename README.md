@@ -17,4 +17,7 @@ I also uploaded the whole project to GitHub so everything is there.
  - In the “after” version, bullets stay in the world forever.
 
 # What I changed 
-I found the BP_FirstPersonProjectile blueprint.I changed the Initial Life Span from 3 to 0 so it stays forever.This makes it easier to see how many actors stay in the world at once. I recorded a before-and-after comparison for my video.
+ - I found the BP_FirstPersonProjectile blueprint.
+ - I changed the Initial Life Span from 3 to 0 so it stays forever.
+ - This makes it easier to see how many actors stay in the world at once.
+ - I recorded a before-and-after comparison for my video.
